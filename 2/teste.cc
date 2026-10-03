@@ -4,13 +4,13 @@
 #include <iostream>
 #include <string>
 
-//var global
+
 using std::cout;
 using std::endl;
 using std::cin;
 using std::string;
 
-//menu principal
+
 int main(){
 
     //nota 1
