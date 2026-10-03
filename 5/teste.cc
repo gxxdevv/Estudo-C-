@@ -1,4 +1,4 @@
-//calculadora de desconto em c++
+//contador em c++
 //dia 3 de c++ || 02/10/2026
 
 #include <iostream>
