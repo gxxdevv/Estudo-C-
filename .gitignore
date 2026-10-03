@@ -1,0 +1,26 @@
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos de compilação
+*.o
+*.obj
+*.a
+*.lib
+
+# Diretórios de build
+build/
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp

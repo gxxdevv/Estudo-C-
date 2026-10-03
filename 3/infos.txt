@@ -1,0 +1,29 @@
+> USO DE IA (INFOS)
+
+RESUMO:
+    Utilizei IA pois  quando vi o problema, achei que ele seria 
+    muito mais complicado do que realmente é. O meu maior problema
+    foi ter pedido ajuda demais... Tentarei evitar da próxima;
+
+MOTIVO:
+    - Pensou ser mais difícil e era mais simples do que parece;
+
+COMO EVITAR?
+    - Estudar mais lógica e pensamento computacional (básico/intermediário/avançado);
+
+SATISFEITO COM HOJE?
+    - Não, usar IA me irrita com problemas simples;
+    - Tentarei evitar ao máximo uso de IA nessa parte "fácil",
+    quero aprender de verdade, me sinto burro utilizando e tendo
+    dificuldade nesse começo;
+
+OBS ADICIONAL:
+    - Começar a evitar a repetir muito código, como vemos na linhas de notas de:
+    100, 50, 20, 10, 5, 2 e 1;
+
+
+- Documento feito exclusivamente por: **Gustavo de Oliveira Guilherme**
+- Arquivo único feito exclusivamente sem ajuda externa (IA, Pessoas)
+- Arquivo "Pessoal" com opiniões MINHAS
+
+dia: 01/10/26 || hora: 22:32 || OBS: dia 2 de c++
