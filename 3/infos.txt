@@ -16,7 +16,6 @@ OBS ADICIONAL:
     100, 50, 20, 10, 5, 2 e 1;
 
 
-- Documento feito exclusivamente por: **Gustavo de Oliveira Guilherme**
 - Arquivo único feito exclusivamente sem ajuda externa (IA, Pessoas)
 - Arquivo "Pessoal" com opiniões MINHAS
 
