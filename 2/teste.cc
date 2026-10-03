@@ -25,7 +25,7 @@ int main(){
 
     //nota 3
     double nota3;
-    cout << "Digite a terceita nota do aluno" << endl;
+    cout << "Digite a terceira nota do aluno" << endl;
     cin >> nota3;
 
     //cálculo de média
@@ -47,7 +47,7 @@ int main(){
     //nota 2
     cout << "Nota 2: " << nota2 << endl;
     //nota 3
-    cout << "Nota 3:" << nota3 << endl;
+    cout << "Nota 3: " << nota3 << endl;
     //média
     cout << "Média do aluno: " << media_escolar << endl;
     //status
