@@ -3,12 +3,10 @@
 
 #include <iostream>
 
-//var global
 using std::cout;
 using std::endl;
 using std::cin;
 
-//menu principal
 int main(){
     //esqueci o que eu ia falar
     double temperatura_celsius;
