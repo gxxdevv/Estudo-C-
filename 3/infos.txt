@@ -11,12 +11,6 @@ MOTIVO:
 COMO EVITAR?
     - Estudar mais lógica e pensamento computacional (básico/intermediário/avançado);
 
-SATISFEITO COM HOJE?
-    - Não, usar IA me irrita com problemas simples;
-    - Tentarei evitar ao máximo uso de IA nessa parte "fácil",
-    quero aprender de verdade, me sinto burro utilizando e tendo
-    dificuldade nesse começo;
-
 OBS ADICIONAL:
     - Começar a evitar a repetir muito código, como vemos na linhas de notas de:
     100, 50, 20, 10, 5, 2 e 1;
