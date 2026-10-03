@@ -33,9 +33,7 @@ int main(){
         cout << "Gostaria de verificar mais descontos? (sim/não):" << endl;
         cin >> pergunta;
 
-        if (pergunta == "não"){
-            cout << "adeus" << endl;
-            break;
+        if (pergunta == "não") break;
     }
     return 0;
 }
