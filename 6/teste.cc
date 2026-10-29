@@ -10,7 +10,6 @@ using std::endl;
 using std::cin;
 using std::string;
 
-//aqui essa merda do inferno
 string operador;
 
 double somar (double a, double b){
@@ -34,7 +33,7 @@ double dividir (double a, double b){
     }
 }    
 
-bool MostrarEssaMerdaDeMenu(){
+bool MostraMenu(){
     while (true) {
         cout << "=== CALCULADORA === \n" << endl;
         cout << "1- somar" << endl;
@@ -67,7 +66,7 @@ bool MostrarEssaMerdaDeMenu(){
 
 int main(){
     while (true){
-        if (!MostrarEssaMerdaDeMenu()){
+        if (!MostrarMenu()){
             break;
         }    
         
