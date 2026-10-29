@@ -1,26 +1,37 @@
-# C++ Learning
+# Exercício 4 — Calculadora em C++
 
-Repositório dedicado ao meu aprendizado de C++.
+Faça um programa que funcione como uma calculadora e permita realizar operações matemáticas por meio de um menu interativo.
 
-Comecei este estudo em 30/09/2026.
+- Adição (+)
+- Subtração (-)
+- Multiplicação (*)
+- Divisão (/)
 
-## Objetivo
+O programa deve permitir realizar várias operações até que o usuário escolha sair.
 
-Aprender C++ construindo exercícios progressivamente,
-sem depender de IA para escrever o código.
+**Regras:**
 
+> - Utilize funções para realizar as operações matemáticas.
+> - Utilize um menu interativo para escolher a operação.
+> - Permita repetir as operações sem reiniciar o programa.
+> - Adicione uma opção para encerrar a calculadora.
 
-## Regra pessoal
+> pedido feito por: **ChatGPT**
 
-IA pode ser utilizada para explicações, dúvidas e dicas,
-ela não fará o papel do progremador.
+> usou IA durante o processo? **sim**
 
-**casos onde IA é permitida:**
+> viu código antigo pra ajuda? **sim**
 
-- escrita mais rápida
-- apontamento de bugs
+> usou documentação pra ajuda? **não informado**
 
-**OBS:**
+* OBS (IA): **IA utilizada para explicar conceitos, identificar erros e auxiliar na correção do código durante o desenvolvimento.**
 
-- ela não pode pensar na lógica sozinha
-- não terão textos copiados sem entendimento prévio
+* OBS (código antigo): **Utilizado como referência para relembrar conceitos e continuar o desenvolvimento.**
+
+**Conceitos praticados:**
+- Funções e parâmetros.
+- Tipos de variáveis (`int`, `double`, `string` e `bool`).
+- Estruturas condicionais (`if/else`).
+- Laços de repetição (`while`).
+- Entrada e saída de dados (`cin` e `cout`).
+- Valores de retorno (`return`) e controle de loops (`break`).
