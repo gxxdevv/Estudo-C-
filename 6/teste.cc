@@ -33,7 +33,7 @@ double dividir (double a, double b){
     }
 }    
 
-bool MostraMenu(){
+bool MostrarMenu(){
     while (true) {
         cout << "=== CALCULADORA === \n" << endl;
         cout << "1- somar" << endl;
