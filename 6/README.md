@@ -18,15 +18,7 @@ O programa deve permitir realizar várias operações até que o usuário escolh
 
 > pedido feito por: **ChatGPT**
 
-> usou IA durante o processo? **sim**
-
-> viu código antigo pra ajuda? **sim**
-
-> usou documentação pra ajuda? **não informado**
-
-* OBS (IA): **IA utilizada para explicar conceitos, identificar erros e auxiliar na correção do código durante o desenvolvimento.**
-
-* OBS (código antigo): **Utilizado como referência para relembrar conceitos e continuar o desenvolvimento.**
+> usou IA durante o processo? **não**
 
 **Conceitos praticados:**
 - Funções e parâmetros.
