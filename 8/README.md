@@ -1,4 +1,4 @@
-GTX BANK — Sistema Bancário
+# GTX BANK — Sistema Bancário
 
 Faça um programa que:
 
